@@ -1,4 +1,4 @@
-# docker-cluster-swarm-vagrant<br>
+# Docker Cluster using Swarm and Vagrant<br>
 
 Create a folder /local-cluster-swarm-vagrant<br>
 Git clone "https://github.com/denilsonbonatti/docker-projeto2-cluster.git cd docker-projeto2-cluster/"<br>
